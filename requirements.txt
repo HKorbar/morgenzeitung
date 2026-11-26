@@ -2,3 +2,6 @@ feedparser
 trafilatura
 EbookLib
 Pillow
+icalendar
+recurring-ical-events
+youtube-transcript-api
